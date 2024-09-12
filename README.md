@@ -3,3 +3,5 @@
 - 源网页 https://design.ros2.org/
 - 源仓库 https://github.com/ros2/design/
 
+- 本仓库生成的在线文档：https://ros2-design-zh.readthedocs.io/zh-cn/latest/
+
