@@ -32,3 +32,13 @@ ROS2 Design 中文翻译
    interface/index.md
    interface/idl_interface_definition.md
    interface/legacy_interface_defintion.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Security
+
+   Security/index.md
+   Security/ros2_access_control.md
+   Security/ros2_dds_security.md
+   Security/ros2_security_enclaves.md
+   Security/ros2_threat_model.md
