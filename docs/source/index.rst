@@ -21,9 +21,11 @@ ROS2 Design 中文翻译
    :maxdepth: 1
    :caption: Middleware
    
-   middleware/ros-on-dds.md
-   middleware/ros2-middleware-interface.md
-   
+   middleware/中间件.md
+   middleware/基于DDS的ROS.md
+   middleware/ROS2的中间件接口.md
+   middleware/节点到参与者的映射.md
+   middleware/ROSQoS截止时间活动性和生命周期.md
 
 .. toctree::
    :maxdepth: 1
